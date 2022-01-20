@@ -1,0 +1,26 @@
+#!/bin/bash
+								echo "$(clear)"
+echo -e "\e[92m"                                                                        
+echo "$(figlet Tuturus)"                                                                
+echo -e "\e[92m|     |\e[93mAuthor >>> Turub_Termous <<<<"                              
+echo -e "\e[92m|  |  |\e[93mInstagram >>> Turub_Termous <<"                             
+echo -e "\e[92m| /|\ |\e[93mTelegr >>> Turub_Termous <<<<"                              
+echo -e "\e[92m|  v  |\e[93mhttps://github.com/TurubTermous"                            
+echo -e "\e[92mV     V"
+									echo -e "\e[93mUpdate status.."
+							printf "\n"
+							printf "\n"
+										pkg update && pkg upgrade
+							printf "\n"
+							printf "\n"
+										pkg install figlet
+								echo "$(clear)"
+										echo "Installasi di mulai,Tunggu sebentar..."
+							printf "\n"
+							printf "\n"
+										echo "$(git clone https://github.com/TurubTermous/.virtex)"
+								echo "$(clear)"
+
+									echo -e "\e[92mInstallasi selesai.."
+										echo "$(chomd +x Turus.sh)"
+										echo "$(rm install.sh)"
