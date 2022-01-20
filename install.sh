@@ -22,5 +22,5 @@ echo -e "\e[92mV     V"
 								echo "$(clear)"
 
 									echo -e "\e[92mInstallasi selesai.."
-										echo "$(chomd +x Turus.sh)"
+										echo "$(chmod +x Turus.sh)"
 										echo "$(rm install.sh)"
